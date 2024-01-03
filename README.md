@@ -2,7 +2,7 @@
 Automates the analysis of 20-step recordings from Andrés/Albert labs.
 
 ### install
-SonPy was very particular to install. On Windows, I did the following (where C:\Path\To\Anaconda3\envs\ is the path to my Anaconda3 environments):
+SonPy was very particular to install. On Windows, I did the following from the Anaconda terminal (where C:\Path\To\Anaconda3\envs\ is the path to my Anaconda3 environments):
 ```
 conda create -p C:\Path\To\Anaconda3\envs\steps python=3.9 numpy pandas scipy scikit-learn quantities pyamg matplotlib seaborn spyder statsmodels
 conda activate steps
